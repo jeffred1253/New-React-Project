@@ -1,0 +1,41 @@
+h1 {
+    color: cornsilk;
+    background-color: darkblue;
+    padding: 25px 125px;
+    border-radius: 100%;
+    margin: 0;
+}
+
+li {
+    color: cornsilk;
+    background-color: darkblue;
+    padding: 8px;
+    border-radius: 8px;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    background-color: rgb(77, 109, 253);
+}
